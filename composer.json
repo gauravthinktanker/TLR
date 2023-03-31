@@ -1,0 +1,28 @@
+{
+    "name": "tlr/tlr-gaurav",
+    "description": "TLR package for thinktanker",
+    "authors": [{
+        "name": "gaurav patel",
+        "email": "gaurav.thinktanker@gmail.com"
+    }],
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "database/seeds",
+            "database/factories"
+        ],
+        "psr-4": {
+            "tlr\\tlrgaurav\\": "packages/tlr/tlrgaurav/src",
+            "App\\": "app/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "tlr\\tlrgaurav\\": "packages/tlr/tlrgaurav/src",
+            "Tests\\": "tests/"
+        }
+    }
+
+}
+
+
