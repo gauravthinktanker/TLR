@@ -1,6 +1,8 @@
 {
     "name": "thinksystem/tlrgaurav",
     "description": "TLR package for thinktanker",
+    "license": "MIT",
+    "type": "library",
     "authors": [{
         "name": "gaurav patel",
         "email": "gaurav.thinktanker@gmail.com"
