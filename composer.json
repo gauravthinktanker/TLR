@@ -1,5 +1,5 @@
 {
-    "name": "tlr/tlr-gaurav",
+    "name": "thinksystem/tlrgaurav",
     "description": "TLR package for thinktanker",
     "authors": [{
         "name": "gaurav patel",
@@ -12,13 +12,13 @@
             "database/factories"
         ],
         "psr-4": {
-            "tlr\\tlrgaurav\\": "packages/tlr/tlrgaurav/src",
+            "thinksystem\\tlrgaurav\\": "packages/thinksystem/tlrgaurav/src",
             "App\\": "app/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "tlr\\tlrgaurav\\": "packages/tlr/tlrgaurav/src",
+            "thinksystem\\tlrgaurav\\": "packages/thinksystem/tlrgaurav/src",
             "Tests\\": "tests/"
         }
     }
