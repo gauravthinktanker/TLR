@@ -21,7 +21,7 @@
             "thinksystem\\tlrgaurav\\": "packages/thinksystem/tlrgaurav/src",
             "Tests\\": "tests/"
         }
-    }
+    },
 "minimum-stability": "dev"
 }
 
